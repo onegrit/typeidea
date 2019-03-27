@@ -1,0 +1,5 @@
+*.pvc
+*.swp
+*.sqlite3
+/venv/
+/.idea/
